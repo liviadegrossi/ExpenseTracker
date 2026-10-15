@@ -2,7 +2,7 @@
 
 The API for an expense tracker application that allows users to create, read, update, and delete expenses. Users can sign up and log in to the application. Each user should have their own set of expenses.
 
-<img src="./images/expense-tracker-api-m72p5.png" loading="lazy">
+<img src="images/expense-tracker-api-m72p5.png" loading="lazy">
 
 ### Features
 
