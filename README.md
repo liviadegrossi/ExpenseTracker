@@ -31,4 +31,4 @@ The API for an expense tracker application that allows users to create, read, up
     - Custom
 
 ### Source
-![Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)
+<a href="https://roadmap.sh/projects/expense-tracker-api">Expense Tracker API</a>
